@@ -1,1 +1,1 @@
-# gh-repo-clone-trustwallet-assets
+contract
