@@ -1,0 +1,11 @@
+{
+  "name": "Orbit Dollar",
+  "symbol": "ODT",
+  "type": "TRC20",
+  "decimals": 18,
+  "description": "Orbit Dollar is a TRC20 token.",
+  "website": "https://orbitdollar.org",
+  "explorer": "https://tronscan.io/#/token/TA4hkHx4riMsc8mxjWscAT5KkJ7nkNMAM3",
+  "status": "active",
+  "id": "TA4hkHx4riMsc8mxjWscAT5KkJ7nkNMAM3"
+}
